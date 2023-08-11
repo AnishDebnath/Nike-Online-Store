@@ -4,6 +4,22 @@ It is a website of Nike Online Store that creating a captivating and seamless
 online shopping experience for Nike enthusiasts, bringing the iconic brand
 to the digital with style and convenience.
 
+<h2> Technologies: </h2>
+
+This project was developed with the following technologies:
+
+- HTML5
+- CSS3
+- JavaScript
+- VsCode
+- Photoshop
+
+<h2> Features </h2>
+
+ - **Single-Page Layout**
+
+ - **Styled with HTML5 and CSS3 with easy to customize colors**
+
 <h1> Screenshots: </h1>
 
 <h2> First Page: </h2>
